@@ -211,6 +211,7 @@ if (!is_file($indexFile)) {
     http_response_code(404);
     exit('Page artisan inexistante.');
 }
+$datasJson = $artisanDir . '/datas.json';
 
 include $indexFile;
 exit;
