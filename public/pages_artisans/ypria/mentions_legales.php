@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <base href="<?php echo $baseUrl; ?>">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/assets/common_assets/css/reset.css" class="css">
-    <link rel="stylesheet" href="/assets/assets_artisans/css/style.css" class="css">
-    <?php
+<?php
         $json_path = __DIR__ . '/datas.json';
         $data = [];
 
@@ -27,6 +19,15 @@
             $baseUrl = $protocol . $host . $currentDir . '/';
 
     ?>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <base href="<?php echo $baseUrl; ?>">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/common_assets/css/reset.css" class="css">
+    <link rel="stylesheet" href="/assets/assets_artisans/css/style.css" class="css">
+    
     <title><?= $data['nom_commercial'] . ' - Mentions Légales'; ?></title>
 </head>
 <body id="body" class="<?= $data['theme_couleur'] ?>">  

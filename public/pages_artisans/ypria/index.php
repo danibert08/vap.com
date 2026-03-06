@@ -4,18 +4,7 @@
     if (empty($_SESSION['csrf_token'])) {
         $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
     } 
-?>
-
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <base href="<?php echo $baseUrl; ?>">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex"><!-- A retirer pour chaque artisan -->
-    <?php
-        $json_path = __DIR__ . '/datas.json';
+    $json_path = __DIR__ . '/datas.json';
         $data = [];
 
     if (file_exists($json_path)) {
@@ -33,8 +22,17 @@
             $currentDir = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/\\');
 
             $baseUrl = $protocol . $host . $currentDir . '/';
+?>
 
-    ?>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <base href="<?php echo $baseUrl; ?>">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex"><!-- A retirer pour chaque artisan -->
+    
     <link rel="canonical" href="<?= $canonical_url; ?>" />
     <title><?= $data['tag_title']; ?></title>
     <link rel="stylesheet" href="/assets/common_assets/css/reset.css" class="css">
