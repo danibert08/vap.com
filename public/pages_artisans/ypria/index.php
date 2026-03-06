@@ -14,16 +14,16 @@
     // Petit message de debug pour la prod
     die("Erreur : Le fichier est introuvable à l'adresse : " . $json_path);
     }
-        $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
-            $host = $_SERVER['HTTP_HOST'];
-            $canonical_url = $protocol . "://" . $host . "/";
-            // Calcul propre de l'URL du dossier de l'artisan
-    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
-    $host = $_SERVER['HTTP_HOST'];
+        $host = $_SERVER['HTTP_HOST'];
+    
+    // 1. URL Canonique (racine du domaine en HTTPS)
+    $canonical_url = "https://" . $host . "/";
+
+    // 2. Chemin vers le dossier actuel de l'artisan
     $currentDir = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/\\');
     
-    // C'est l'URL absolue vers le dossier de l'artisan
-    $baseUrl = $protocol . $host . $currentDir . '/';
+    // 3. URL de base pour toutes les ressources relatives (images, etc.)
+    $baseUrl = "https://" . $host . $currentDir . "/";
 ?>
 
 <!DOCTYPE html>
