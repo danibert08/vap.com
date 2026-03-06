@@ -19,12 +19,15 @@
         $canonical_url = $protocol . "://" . $host . "/";
     ?>
     <?php
-        $json_path = '/pages_artisans/ypria/datas.json';
+        $json_path = __DIR__ . 'datas.json';
         $data = [];
 
     if (file_exists($json_path)) {
         $json_content = file_get_contents($json_path);
         $data = json_decode($json_content, true);
+    }else {
+    // Petit message de debug pour la prod
+    die("Erreur : Le fichier est introuvable à l'adresse : " . $json_path);
     }
 
     ?>
@@ -108,7 +111,7 @@
                                 <!--     Main1 Pictures     -->
 
                     <p class="services__lambda_photos">
-                        <img class="photo photo1" src="/pages_artisans/ypria/images/<?= $section['dossier_photos'] ?>/m1.jpeg" width="100" alt="">                    
+                        <img class="photo photo1" src=" <?= __DIR__ ?>/images/<?= $section['dossier_photos'] ?>/m1.jpeg" width="100" alt="">                    
                         <img class="photo photo2" src="images/<?= $section['dossier_photos'] ?>/m2.jpeg"  width="100" alt="">
                     </p>
                     <p class="services__lambda_photos">
