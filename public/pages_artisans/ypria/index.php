@@ -58,7 +58,7 @@
                                 </a>
                             </li>
                        <?php endforeach;  
-                        if (count($data['sections']) === 1)                      
+                        if (count($data['sections']) <= 2)                      
                             {                          
                                 echo '<li><a href="#whoami">Qui suis-je</a></li>';
                             }        
@@ -256,7 +256,7 @@
                                     </a>
                                 </li>
                         <?php endforeach;  
-                            if (count($data['sections']) === 1)                      
+                            if (count($data['sections']) <= 2)                      
                                 {                          
                                     echo '<li><a href="#whoami">Qui suis-je</a></li>';
                                 }        
