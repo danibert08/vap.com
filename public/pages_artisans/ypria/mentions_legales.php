@@ -12,12 +12,13 @@
         $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
             $host = $_SERVER['HTTP_HOST'];
             $canonical_url = $protocol . "://" . $host . "/";
-            // 2. On récupère le chemin WEB vers le dossier actuel
-            // Cela donne par exemple : /pages_artisans/artisan-dupont/
-            $currentPath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/\\') . '/';
-
-            // 3. L'URL de base finale
-            $baseUrl = $protocol . $host . $currentPath;
+            // Calcul propre de l'URL du dossier de l'artisan
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
+    $host = $_SERVER['HTTP_HOST'];
+    $currentDir = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/\\');
+    
+    // C'est l'URL absolue vers le dossier de l'artisan
+    $baseUrl = $protocol . $host . $currentDir . '/';
     ?>
 <!DOCTYPE html>
 <html lang="fr">
