@@ -50,9 +50,9 @@
         <nav class="navbar navbar-top">      
             <ul class="nav-links">
                 <li><a href="#accueil">Accueil</a></li> 
-                <?php   foreach ($data['sections'] as $section):
-                            echo '<li><a href="#services' . $section['id'] .'">' . $section['activite'] .'</a></li>';
-                        endforeach;  
+                <?php   foreach ($data['sections'] as $section): ?>
+                             <li><a href="/pages_artisans/<?= $data['dossier'] ?>/index.php/#services<?= $section['id']?>"> <?= $section['activite'] ?></a></li>
+                       <?php endforeach;  
                         if (count($data['sections']) === 1)                      
                         {                          
                             echo '<li><a href="#whoami">Qui suis-je</a></li>';
