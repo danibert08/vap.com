@@ -58,11 +58,12 @@
                                 </a>
                             </li>
                        <?php endforeach;  
-                        if (count($data['sections']) === 1)                      
-                            {                          
-                                echo '<li><a href="#whoami">Qui suis-je</a></li>';
+                        if (count($data['sections']) <= 2)                      
+                            {   ?>                        
+                                <li><a href="#whoami" onclick="document.getElementById('whoami').scrollIntoView({behavior: 'smooth'}); return false;">Qui suis-je</a></li>
+                        <?php 
                             }        
-                ?>                                
+                        ?>                                
                 <li><a href="#contact" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'}); return false;">Contact</a></li>
             </ul>
         </nav>     
@@ -256,11 +257,12 @@
                                     </a>
                                 </li>
                         <?php endforeach;  
-                            if (count($data['sections']) === 1)                      
-                                {                          
-                                    echo '<li><a href="#whoami">Qui suis-je</a></li>';
-                                }        
-                    ?>                                
+                            if (count($data['sections']) <= 2)                      
+                            {   ?>                        
+                                <li><a href="#whoami" onclick="document.getElementById('whoami').scrollIntoView({behavior: 'smooth'}); return false;">Qui suis-je</a></li>
+                        <?php 
+                            }                                 
+                        ?>                                  
                 <li><a href="#contact" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'}); return false;">Contact</a></li>
             </ul>
             </nav>

@@ -1,0 +1,46 @@
+{
+  "dossier": "aps",
+  "nom": "CRUCHANT",
+  "prenom" : "Florian",
+  "nom_commercial" : "APS",
+  "metier": "PLOMBIER",
+  "commune": "Les Sables d'Olonne",
+  "telephone" : "0762912681",
+  "mail" : "",
+  "forme_juridique": "SARL",
+  "siren": "911342442",
+  "rue": "5 rue Roberval",
+  "ville": "85180 Les Sables d'Olonne",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8621.258051636494!2d-1.7392049463020607!3d46.486753606139445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ca89c864672e765%3A0x1532b26c5b30fd72!2sAtelier%20du%20plombier%20sablais!5e0!3m2!1sfr!2sfr!4v1772378683425!5m2!1sfr!2sfr",
+  "theme_couleur": "grey",
+  "tag_title": "APS : Votre plombier",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "",
+  "tiktok": "",
+  "instagram": "#",
+  "facebook": "",
+  
+  "services": "Mes services plomberie",
+  "sections": [
+    {
+      "id":"1",
+      "activite": "Plomberie Gaz et Eau",
+      "text": "Besoin d'une installation fiable ou d'un dépannage urgent ? Spécialisé dans les travaux d'installation d'eau et de gaz, je mets mon savoir-faire au service de vos projets de construction et de rénovation. De la conception de votre salle de bain à la pose de réseaux de gaz complexes, j’assure une exécution rigoureuse respectant les normes de sécurité les plus strictes. Mon objectif est simple : vous garantir des installations durables, une consommation optimisée et une tranquillité d'esprit totale. <br>Mes domaines d'intervention : Plomberie sanitaire : Installation, robinetterie, chauffe-eau et traitement de l'eau.Réseaux de gaz : Pose de conduites, raccordements et mise en conformité. Chauffage : Optimisation de vos circuits d'eau chaude.",
+      "dossier_photos": "photos1"
+    }
+  
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Afin de vous proposer un devis précis et au prix juste, je me déplace directement sur place     pour évaluer votre projet. Cette visite me permet d’analyser les surfaces, l’état des supports et les éventuelles contraintes techniques, afin d'établir une estimation détaillée et sans surprise.<br><br>Chaque chantier étant unique, ce rendez-vous est essentiel pour vous garantir un tarif maîtrisé, adapté à vos besoins et à votre budget. Mon engagement : transparence, conseils personnalisés et respect du prix annoncé."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"Installé depuis 3 ans aux Sables d'Olonne, je mets mon dynamisme et mon expertise au service de vos installations d'eau et de gaz. À 25 ans, je représente une nouvelle génération d'artisans : connectés, réactifs et formés aux dernières normes de sécurité et d'efficacité énergétique."
+  }
+
+  
+
+}
