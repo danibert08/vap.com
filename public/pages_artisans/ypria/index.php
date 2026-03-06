@@ -111,7 +111,7 @@
                                 <!--     Main1 Pictures     -->
 
                     <p class="services__lambda_photos">
-                        <img class="photo photo1" src="<?= __DIR__ ?>/images/<?= $section['dossier_photos'] ?>/m1.jpeg" width="100" alt="">                    
+                        <img class="photo photo1" src="<?= $data['dossier'] ?>/images/<?= $section['dossier_photos'] ?>/m1.jpeg" width="100" alt="">                    
                         <img class="photo photo2" src="images/<?= $section['dossier_photos'] ?>/m2.jpeg"  width="100" alt="">
                     </p>
                     <p class="services__lambda_photos">
