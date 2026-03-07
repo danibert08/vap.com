@@ -4,6 +4,7 @@
   "prenom" : "",
   "nom_commercial" : "",
   "metier": "",
+  "activite": "",
   "commune": "",
   "telephone" : "",
   "mail" : "",
