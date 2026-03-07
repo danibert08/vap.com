@@ -1,0 +1,46 @@
+{
+  "dossier": "grolier",
+  "nom": "GROLIER",
+  "prenom" : "Freddy",
+  "nom_commercial" : "GROLIER FREDDY",
+  "metier": "PLÂTRIER",
+  "activite": "Pose de cloisons sèches et menuiserie",
+  "commune": "Saint-Mathurin",
+  "telephone" : "0251226131",
+  "mail" : "",
+  "forme_juridique": "Entreprise Individuelle",
+  "siren": "478854185",
+  "rue": "La Foiserie",
+  "ville": "85150 Saint-Mathurin",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2742.8316248163665!2d-1.6894820000000002!3d46.5707949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480443e295c3d877%3A0x61a0e7f6c42169a3!2sGrolier%20Freddy!5e0!3m2!1sfr!2sfr!4v1772916755869!5m2!1sfr!2sfr",
+  "theme_couleur": "light-blue",
+  "tag_title": "Grolier Freddy : Pose de cloisons sèches et menuiserie",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "",
+  "facebook": "",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "activite": "Travaux de Plâtrerie",
+      "text": "Spécialisé dans l'aménagement intérieur, j'interviens pour transformer vos volumes et optimiser votre confort : <br><br>Cloisonnement : Redistribution de vos pièces pour un nouvel espace de vie. <br><br>Isolation thermique et phonique : Des solutions pour une maison plus économe et silencieuse. <br><br>Faux-plafonds : Intégration de spots et correction acoustique. <br><br>Rénovation : Reprise de murs anciens, fissures et dégâts des eaux. <br><br>Mon expérience me permet d'anticiper les contraintes de chaque chantier pour vous offrir un résultat durable, propre et conforme aux normes.",
+      "dossier_photos": "photos1"
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Afin de vous proposer un devis précis et au prix juste, je me déplace directement sur place     pour évaluer votre projet. Cette visite me permet d’analyser les surfaces, l’état des supports et les éventuelles contraintes techniques, afin d'établir une estimation détaillée et sans surprise.<br><br>Chaque chantier étant unique, ce rendez-vous est essentiel pour vous garantir un tarif maîtrisé, adapté à vos besoins et à votre budget. Mon engagement : transparence, conseils personnalisés et respect du prix annoncé."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"Derrière chaque belle peinture se cache le travail invisible mais essentiel du plâtrier. Fort de plus de 10 ans d'expérience, je mets mon savoir-faire au service de vos projets de construction et de rénovation. <br>Mon métier ? Transformer vos espaces, redresser vos cloisons et vous garantir des surfaces d'une planéité parfaite. Du montage de cloisons sèches (Placo) aux finitions les plus délicates, je maîtrise le geste technique qui fait la différence. Confier vos murs à un artisan d'expérience, c'est l'assurance d'un intérieur sain, droit et prêt à être sublimé."
+  }
+
+  
+
+}
