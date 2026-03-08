@@ -1,4 +1,4 @@
 <?php
-include('base.php');
-include('../2_base/template_mentions_legales.php');
+include(__DIR__ . '/base.php');
+include($_SERVER['DOCUMENT_ROOT'] . '/pages_artisans/2_base/template.php');
 ?>
