@@ -25,12 +25,14 @@
   "sections": [
     {
       "id":"1",
+      "navTitle": "Eletricité",
       "activite": "Electricité",
       "text": "Je suis l'électricien qu'il vous faut aux Sables-d'Olonne (85340). Je suis disponible 24h/24 pour tous vos besoins en électricité. Avec mes compétences et mon professionnalisme, je saurai répondre à toutes vos attentes en matière de travaux électriques. N'hésitez pas à me contacter pour une intervention rapide et efficace. ",
       "dossier_photos": "photos1"
     },
     {
       "id": "2",
+      "navTitle": "Plomberie",
       "activite": "Plomberie",
       "text": "Une fuite, un débouchage ou un chauffe-eau en panne ? Ne laissez pas un petit souci devenir un sinistre. Fort de 15 années d'intervention sur le terrain, je réagis avec calme et efficacité pour sécuriser votre habitation.<br>Mon engagement est simple : une intervention rapide, un tarif transparent et un travail propre. Ma longévité dans le métier est ma meilleure signature : je ne propose que ce qui est nécessaire, avec la rigueur d'un professionnel qui connaît chaque rouage de votre installation. Votre urgence mérite l'expérience.",
       "dossier_photos": "photos2"     
