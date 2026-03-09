@@ -1,4 +1,6 @@
 <?php
+
+
     session_start();
 
     if (empty($_SESSION['csrf_token'])) {
@@ -54,7 +56,7 @@
                             <li>
                                 <a href="#services<?= $section['id'] ?>" 
                                 onclick="document.getElementById('services<?= $section['id'] ?>').scrollIntoView({behavior: 'smooth'}); return false;">
-                                <?= $section['navTitle'] ?>
+                                <?= $section['activite'] ?>
                                 </a>
                             </li>
                        <?php endforeach;  
@@ -115,7 +117,7 @@
 
             <?php foreach ($data['sections'] as $section) : ?>
                                 <!--       Services  N°1   -->
-                
+
                 <div  id="services<?= $section['id']; ?>" class="services__lambda">
                     <h2  class="services__lambda_title"><?= $section['activite']; ?></h2>
                     <p class="services__lambda_text"> <?= $section['text'] ?></p>
@@ -253,7 +255,7 @@
                                 <li>
                                     <a href="#services<?= $section['id'] ?>" 
                                     onclick="document.getElementById('services<?= $section['id'] ?>').scrollIntoView({behavior: 'smooth'}); return false;">
-                                    <?= $section['navTitle'] ?>
+                                    <?= $section['activite'] ?>
                                     </a>
                                 </li>
                         <?php endforeach;  
@@ -274,3 +276,4 @@
     <script src="/assets/vap/form.js"></script>
 </body>
 </html>
+
