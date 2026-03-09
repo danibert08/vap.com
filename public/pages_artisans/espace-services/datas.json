@@ -5,6 +5,7 @@
   "nom_commercial" : "ESPACE SERVICES",
   "metier": "CORDONNERIE MULTISERVICE",
   "activite": "Cordonnerie, clés minute, vente de produits d'entretien, coupes, accessoires se rapportant à l'activité",
+  "genre_publication": "Le directeur",
   "commune": "Les Sables d'Olonne",
   "telephone" : "0251552233",
   "mail" : "",
@@ -25,6 +26,7 @@
   "sections": [
     {
       "id":"1",
+      "navTitle": "Cordonnerie",
       "activite": "Cordonnerie",
       "text": "Ne jetez plus, restaurez ! Dans mon atelier, je mets mon savoir-faire d'artisan au service de vos souliers, sacs et accessoires en cuir. De la pose d'un patin de protection à la rénovation complète d'un cuir patiné par le temps, chaque pièce est traitée avec le plus grand soin. <br>Alliant techniques traditionnelles et matériaux de qualité, je m'engage à prolonger la durée de vie de vos articles préférés. Parce qu'un bel objet mérite une seconde chance, confiez-moi vos réparations pour un résultat alliant élégance et solidité.",
       "dossier_photos": "photos1"

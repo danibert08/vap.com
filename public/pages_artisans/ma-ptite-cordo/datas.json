@@ -1,0 +1,48 @@
+{
+  "dossier": "ma-ptite-cordo",
+  "nom": "Jeannière",
+  "prenom" : "Caroline",
+  "nom_commercial" : "MA P'TITE CORDO",
+  "metier": "Cordonnerie - Multiservices",
+  "activite": "Cordonnerie et vente de produits",
+  "genre_publication": "La directrice",
+  "commune": "La Tranche-sur-Mer",
+  "telephone" : "0228142847",
+  "mail" : "ma-ptite-cordo@orange.fr",
+  "forme_juridique": "Sarl",
+  "siren": "801475385",
+  "rue": "Les joncs",
+  "ville": "85360 La Tranche-sur-Mer",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.914020313141!2d-1.4288338999999999!3d46.351250799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480405545f8da10f%3A0xc525b53ef69720a8!2sCordonnerie%20Multi-services%20%22MA%20P&#39;TITE%20CORDO%22!5e0!3m2!1sfr!2sfr!4v1773061230117!5m2!1sfr!2sfr",
+  "theme_couleur": "orange",
+  "tag_title": "Réparation chaussures/maroquinerie/Reproduction clés/Plaque immatriculation/Affûtage/Tampons/Gravure/Vente produits entretien/maroquinerie/accessoires",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "https://www.instagram.com/maptitecordo/",
+  "facebook": "https://www.facebook.com/maptitecordo?locale=fr_FR",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "navTitle":"Cordonnerie",
+      "activite": "Cordonnerie et Vente de produits",
+      "text": "Ma P'tite Cordo est une cordonnerie artisanale située au cœur de La Tranche-sur-Mer. Cette petite boutique chaleureuse offre une large gamme de services de cordonnerie et de maroquinerie pour répondre à tous les besoins de réparation et d'entretien de vos chaussures et articles en cuir. <br><br>Avec son équipe d'artisans qualifiés et passionnés, Ma P'tite Cordo s'engage à offrir un service de qualité et des résultats exceptionnels. Que ce soit pour la réparation de semelles, le remplacement de talons, la pose de fermetures éclair ou la restauration de vos sacs à main préférés, vous pouvez faire confiance à Ma P'tite Cordo pour redonner vie à vos articles.",
+      "dossier_photos": "photos1"
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Afin de vous proposer un devis précis et au prix juste, je me déplace directement sur place     pour évaluer votre projet. Cette visite me permet d’analyser les surfaces, l’état des supports et les éventuelles contraintes techniques, afin d'établir une estimation détaillée et sans surprise.<br><br>Chaque chantier étant unique, ce rendez-vous est essentiel pour vous garantir un tarif maîtrisé, adapté à vos besoins et à votre budget. Mon engagement : transparence, conseils personnalisés et respect du prix annoncé."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"L'âme de votre cordonnerie depuis 2014 <br><br>Passionnée par les belles matières et le travail de précision, j'ai fondé ma cordonnerie en 2014 avec une vision claire : redonner ses lettres de noblesse à l'artisanat de proximité. Depuis plus de 10 ans, je mets mon expertise au service de vos souliers et de votre maroquinerie, alliant techniques traditionnelles et solutions modernes.<br><br>Bien plus qu'un atelier de réparation, mon espace  est un lieu dédié à l'entretien du cuir. J'y sélectionne avec soin une gamme de produits de haute qualité pour vous permettre de prendre soin de vos objets préférés à la maison. Me confier vos accessoires, c'est choisir l'œil d'une experte et la main d'une passionnée."
+  }
+
+  
+
+}

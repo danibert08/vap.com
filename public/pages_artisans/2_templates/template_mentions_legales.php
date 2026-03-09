@@ -28,7 +28,7 @@
                 Téléphone : <?= $data['telephone'] ?> <br><br>
                 Email : <?= $data['mail'] ?> 
             </address><br>
-            <p>La directrice de la publication est : <?= $data['prenom'] . ' '  . $data['nom'] .'.' ?></p><br>
+            <p><?= $data['genre_publication'] ?> de la publication est : <?= $data['prenom'] . ' '  . $data['nom'] .'.' ?></p><br>
         </div>
         <div>
             <h2>Hébergement :</h2><br>

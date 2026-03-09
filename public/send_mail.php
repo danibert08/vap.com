@@ -143,6 +143,10 @@ $artisanMap = [
     'root' => 'daniel@votreartisanpro.fr',
     'aps' => 'daniel@votreartisanpro.fr',
     'ruchaud' => 'daniel@votreartisanpro.fr',
+    'ma-ptite-cordo' =>'daniel@votreartisanpro.fr',
+    'dih'=>'daniel@votreartisanpro.fr',
+    'grolier'=>'daniel@votreartisanpro.fr',
+    'espace-services'=>'daniel@votreartisanpro.fr',
 ];
 
 $artisanEmail = $artisanMap[$sd] ?? null;
