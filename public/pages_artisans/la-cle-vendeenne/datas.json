@@ -1,0 +1,48 @@
+{
+  "dossier": "la-cle-vendeenne",
+  "nom": "CAILLEAU",
+  "prenom" : "Richard",
+  "nom_commercial" : "LA CLE VENDÉENNE CAILLEAU",
+  "metier": "Serrurier",
+  "activite": "Serrurerie, metallerie, dépannage",
+  "genre_publication": "Le directeur",
+  "commune": "Challans",
+  "telephone" : "0626551535",
+  "mail" : "cailleau.richard@orange.fr",
+  "forme_juridique": "Entreprise Individuelle",
+  "siren": "503 782 922",
+  "rue": "13 Rue de Chantilly",
+  "ville": "85300 Challans",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d349352.3740821899!2d-1.8420877999999998!3d46.837480299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4805abfd4807085f%3A0x5ce42569021294e3!2sD%C3%A9pannage%20Serrurerie%20Challans%20-%20La%20Cl%C3%A9%20Vend%C3%A9enne!5e0!3m2!1sfr!2sfr!4v1773169862454!5m2!1sfr!2sfr",
+  "theme_couleur": "light-blue",
+  "tag_title": "LA CLE VENDÉENNE CAILLEAU: Travaux de menuiserie métallique et serrurerie",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "",
+  "facebook": "",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "navTitle":"Serrurerie",
+      "activite": "Serrurerie - Métallerie",
+      "text": "Dépannage en serrurerie <br><br>Installation de serrures et verrous de portes<br><br>Changement de serrures <br><br>Serrures de portes de sécurité <br><br>Dépannage de serrure en urgence",
+      "dossier_photos": "photos1"
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Je privilégie une approche artisanale :<br><br>Tarifs clairs : Annoncés avant chaque intervention.<br><br>Ouverture fine : Maîtrise des techniques pour préserver votre matériel autant que possible.<br><br>Honnêteté : Je répare quand c'est possible, je ne remplace que si c'est nécessaire."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"La serrurerie ne s'improvise pas. Fort de deux décennies de métier, je mets mon savoir-faire au service de votre sérénité. Que ce soit pour une installation de haute sécurité ou une remise aux normes après une effraction, j'apporte une réponse technique précise et durable. <br><br>Spécialiste des mécanismes de précision, je maîtrise aussi bien la serrurerie ancienne que les systèmes de fermeture les plus modernes. <br><br>Mon engagement ? Un conseil d'expert, des produits certifiés et une pose réalisée dans les règles de l'art pour protéger durablement votre foyer ou votre commerce."
+  }
+
+  
+
+}
