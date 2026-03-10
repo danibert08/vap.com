@@ -146,6 +146,7 @@ $artisanMap = [
     'grolier'=>'daniel@votreartisanpro.fr',
     'espace-services'=>'daniel@votreartisanpro.fr',
     'authen-couture' =>'daniel@votreartisanpro.fr',
+    'abs' => 'daniel@votreartisanpro.fr',
 ];
 
 $artisanEmail = $artisanMap[$sd] ?? null;
