@@ -148,6 +148,7 @@ $artisanMap = [
     'authen-couture' =>'daniel@votreartisanpro.fr',
     'abs' => 'daniel@votreartisanpro.fr',
     'la-cle-vendeenne' => 'daniel@votreartisanpro.fr',
+    'sables-decor' => 'daniel@votreartisanpro.fr',
 ];
 
 $artisanEmail = $artisanMap[$sd] ?? null;

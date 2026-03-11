@@ -1,0 +1,48 @@
+{
+  "dossier": "sables-decor",
+  "nom": "COUTURE",
+  "prenom" : "Stéphane",
+  "nom_commercial" : "SABLES DÉCOR",
+  "metier": "Peintre en Bâtiment",
+  "activite": "Peinture, Ravalement, Revêtement de sols et murs",
+  "genre_publication": "Le directeur",
+  "commune": "Les Sables d'Olonne",
+  "telephone" : "0685233908",
+  "mail" : "",
+  "forme_juridique": "Entreprise Individuelle",
+  "siren": "802539726",
+  "rue": "27 Rue Vasco de Gama",
+  "ville": "85100 Les Sables d'Olonne",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87842.3985444339!2d-1.76114515!3d46.5264186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4804683fe072fd59%3A0x9d2af6c8713ae24e!2sSABLES%20DECOR%20PEINTRE%20EN%20B%C3%82TIMENT!5e0!3m2!1sfr!2sfr!4v1773225176787!5m2!1sfr!2sfr",
+  "theme_couleur": "light-blue",
+  "tag_title": "SABLES DÉCOR : Peinture, Ravalement, Revêtement de sols et murs",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "",
+  "facebook": "",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "navTitle":"Peinture",
+      "activite": "Peinture, Ravalement, Revêtement de sols et murs",
+      "text": "Je transforme votre habitat ou vos locaux professionnels avec une approche globale de la rénovation. Mon savoir-faire s’articule autour de quatre piliers essentiels : <br><br>Peinture Intérieure : Des finitions soignées (mat, velours, satin) et un conseil personnalisé sur le choix des couleurs pour créer l'ambiance qui vous ressemble. <br><br>Revêtements de Murs : Pose de papiers peints panoramiques, toile de verre ou enduits décoratifs pour donner du relief à vos cloisons. <br><br>Revêtements de Sols : Installation de parquets flottants, sols PVC ou moquettes, alliant confort acoustique et haute résistance.<br><br>Ravalement de Façade : Protection et mise en valeur de votre patrimoine extérieur grâce à des traitements adaptés et esthétiques.<br><br>Mon engagement : Un diagnostic précis, des matériaux de qualité et un chantier propre pour un résultat durable.",
+      "dossier_photos": "photos1"
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Pour moi, un devis clair est le début d'un chantier réussi. Mes tarifs sont calculés au plus juste pour inclure : <br><br>La préparation rigoureuse des supports (lessivage, ponçage, enduisage). <br><br>L’utilisation de produits professionnels (peintures à fort pouvoir couvrant, revêtements durables). <br><br>La protection de vos mobiliers et le nettoyage de fin de chantier. <br><br>À noter : Chaque projet étant unique, mes prix varient selon l'état des supports et la technicité des matériaux choisis. Je vous propose une visite technique gratuite pour établir un chiffrage précis sous 48h."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"je suis un artisan passionné par la rénovation et l'embellissement des espaces de vie.<br><br>Fort de 12 années d'expérience dans les métiers du second œuvre, j'ai fondé Sables Décor avec une idée simple : allier la rigueur technique à une esthétique soignée. Que ce soit pour redonner de l'éclat à une façade fatiguée, poser un parquet élégant ou choisir la nuance de peinture qui transformera votre salon, je mets un point d'honneur à traiter chaque chantier comme si c'était le mien.<br><br>Mon objectif ? Que vous retrouviez le plaisir de vivre dans un intérieur (ou extérieur) parfaitement fini."
+  }
+
+  
+
+}
