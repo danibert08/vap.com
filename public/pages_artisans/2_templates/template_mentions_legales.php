@@ -18,9 +18,7 @@
             <p>Le présent site est édité par :</p><br>
             <p>Nom / Raison sociale : <?= $data['nom_commercial'] ?><p>
             <p>Forme juridique : <?= $data['forme_juridique'] ?></p>
-            <p>SIRET : <?= $data['siren'] ?></p>
-            
-            <p>Numéro TVA intracommunautaire : non concerné</p><br>
+            <p>SIREN : <?= $data['siren'] ?></p><br>
             <p>Adresse du siège social : </p><br>
             <address>
                 <?= $data['rue'] ?><br>

@@ -1,0 +1,48 @@
+{
+  "dossier": "gilfredo",
+  "nom": "GILBERT",
+  "prenom" : "Frédéric",
+  "nom_commercial" : "GILFREDO SARL",
+  "metier": "Spécialiste de la Salle de Bain",
+  "activite": "Travaux d’installation d’eau et de gaz en tous locaux",
+  "genre_publication": "Le directeur",
+  "commune": "Les Sables d'Olonne",
+  "telephone" : "0689120543",
+  "mail" : "fred.gilbert85@gmail.com",
+  "forme_juridique": "Sarl",
+  "siren": "790164933",
+  "rue": "107 Rue du maréchal Joffre",
+  "ville": "85100 Les Sables d'Olonne",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2746.3625186251866!2d-1.7624408999999999!3d46.500934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4804671e00e22bd9%3A0xe7d1c021475c0eaa!2sSarl%20Gilfredo!5e0!3m2!1sfr!2sfr!4v1773232054800!5m2!1sfr!2sfr",
+  "theme_couleur": "grey",
+  "tag_title": "GILFREDO SARL : Aménageur de Salle de Bain",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/profile.php?id=100063439437032",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "navTitle":"Mes chantiers",
+      "activite": "Aménagement de Salle de Bain",
+      "text": "La salle de bain n'est plus une simple pièce fonctionnelle, c'est un sanctuaire où commence et s'achève votre journée. Spécialiste de l'aménagement de salle de bain, je vous accompagne dans la création d'un espace qui vous ressemble : moderne, ergonomique et apaisant. <br><br>De la conception à la pose finale, je gère l'intégralité de votre projet : <br><br>Optimisation d'espace pour les petites surfaces. <br><br>Remplacement de baignoire par des douches à l'italienne sécurisées. <br><br>Choix de matériaux durables et esthétiques <br><br>Installation de mobilier sur-mesure. <br><br>Mon engagement : Un travail soigné, le respect des délais et une étanchéité irréprochable pour une sérénité totale.",
+      "dossier_photos": "photos1"
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "La juste valeur de votre projet: <br><br>Parce que chaque salle de bain est unique, je ne propose pas de 'prix catalogue'. Mes tarifs sont calculés au plus juste selon la configuration de votre espace, l'état de l'existant et les matériaux que vous choisirez (carrelage, robinetterie, mobilier). <br><br>Mon objectif est de vous proposer le meilleur rapport qualité/prix en fonction de votre budget. Chaque devis que je réalise est gratuit, détaillé poste par poste et transparent : vous savez exactement ce que vous payez, de la préparation du support aux finitions."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"Spécialiste de l’aménagement de salle de bain, j’ai fait de cette pièce technique ma passion. Mon métier ne s'arrête pas à la pose de carrelage ou au raccordement d'une vasque : il consiste à traduire vos besoins en un espace de vie optimisé et durable. <br><br>Ce qui me définit ? La rigueur technique et l’œil pour le détail. Je sais qu’un chantier de salle de bain est une étape importante dans la vie d’un foyer, c'est pourquoi je m’engage à être votre interlocuteur unique, transparent et présent à chaque étape, de la première esquisse à la pose du dernier joint d'étanchéité."
+  }
+
+  
+
+}
