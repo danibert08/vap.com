@@ -19,7 +19,7 @@
 
     <header>
         <div class="logo">
-            <img src="assets/vap/logoAP.png" alt="Logo votre artisan pro, bleu et orange" >
+            <img src="assets/vap/logo.jpeg" width="500" alt="Logo votre artisan pro, bleu et orange" >
         </div>
     </header>
     <main>
