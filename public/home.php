@@ -31,9 +31,8 @@
             et optimisé pour le référencement google</p><br><br>
             <p>**************</p><br>
             <p><u>Tarif unique sans coûts cachés :</u></p><br><br>
-            <p>Offre de lancement :</p><br>
-            <p>Une seule fois 69€ (au lieu de 99€) pour la réalisation</p><br>
-            <p>Et seulement 12,99€/mois pour l'hébergement, la maintenance, les petites modifications, les mises a jour</p><br>
+            <p>Une seule fois 99€ pour la réalisation.</p><br>
+            <p>Puis seulement 12,99€/mois pour l'hébergement, la maintenance,les mises a jour et les petites modifications.</p><br>
             <p>**************</p>
         </div>
 
