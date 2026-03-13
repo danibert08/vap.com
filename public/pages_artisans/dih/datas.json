@@ -28,14 +28,14 @@
       "id":"1",
       "navTitle": "Eletricité",
       "activite": "Electricité",
-      "text": "Je suis l'électricien qu'il vous faut aux Sables-d'Olonne (85340). Je suis disponible 24h/24 pour tous vos besoins en électricité. Avec mes compétences et mon professionnalisme, je saurai répondre à toutes vos attentes en matière de travaux électriques. N'hésitez pas à me contacter pour une intervention rapide et efficace. ",
+      "text": "Je suis l'électricien qu'il vous faut aux Sables-d'Olonne !<br><br> Je suis disponible 24h/24 pour tous vos besoins en électricité. <br><br>Avec mes compétences et mon professionnalisme, je saurai répondre à toutes vos attentes en matière de travaux électriques. <br><br>N'hésitez pas à me contacter pour une intervention rapide et efficace. ",
       "dossier_photos": "photos1"
     },
     {
       "id": "2",
       "navTitle": "Plomberie",
       "activite": "Plomberie",
-      "text": "Une fuite, un débouchage ou un chauffe-eau en panne ? Ne laissez pas un petit souci devenir un sinistre. Fort de 15 années d'intervention sur le terrain, je réagis avec calme et efficacité pour sécuriser votre habitation.<br>Mon engagement est simple : une intervention rapide, un tarif transparent et un travail propre. Ma longévité dans le métier est ma meilleure signature : je ne propose que ce qui est nécessaire, avec la rigueur d'un professionnel qui connaît chaque rouage de votre installation. Votre urgence mérite l'expérience.",
+      "text": "Une fuite, un débouchage ou un chauffe-eau en panne ? <br><br>Ne laissez pas un petit souci devenir un sinistre. <br><br>Fort de 15 années d'intervention sur le terrain, je réagis avec calme et efficacité pour sécuriser votre habitation.<br><br>Mon engagement est simple : une intervention rapide, un tarif transparent et un travail propre. <br><br>Ma longévité dans le métier est ma meilleure signature : je ne propose que ce qui est nécessaire, avec la rigueur d'un professionnel qui connaît chaque rouage de votre installation. <br><br>Votre urgence mérite l'expérience.",
       "dossier_photos": "photos2"     
     }
  
@@ -44,11 +44,11 @@
   "price":{
     "price_first_title": "Paiement",
     "price_second_title": "Tarif",
-    "price_text": "Afin de vous proposer un devis précis et au prix juste, je me déplace directement sur place     pour évaluer votre projet. Cette visite me permet d’analyser les surfaces, l’état des supports et les éventuelles contraintes techniques, afin d'établir une estimation détaillée et sans surprise.<br><br>Chaque chantier étant unique, ce rendez-vous est essentiel pour vous garantir un tarif maîtrisé, adapté à vos besoins et à votre budget. Mon engagement : transparence, conseils personnalisés et respect du prix annoncé."
+    "price_text": "Afin de vous proposer un devis précis et au prix juste, je me déplace directement sur place     pour évaluer votre projet. <br><br>Cette visite me permet d’analyser les surfaces, l’état des supports et les éventuelles contraintes techniques, afin d'établir une estimation détaillée et sans surprise.<br><br>Chaque chantier étant unique, ce rendez-vous est essentiel pour vous garantir un tarif maîtrisé, adapté à vos besoins et à votre budget. <br><br>Mon engagement : transparence, conseils personnalisés et respect du prix annoncé."
   },
   "whoami":{
     "whoami_first_title":"Qui suis-je",
-    "whoami_text":"Toute l'équipe de D.I.H. est ravie de vous accueillir pour vous offrir une expérience exceptionnelle. Profitez de notre savoir-faire et de nos services professionnels."
+    "whoami_text":"Toute l'équipe de D.I.H. est ravie de vous accueillir pour vous offrir une expérience exceptionnelle. <br><br>Profitez de notre savoir-faire et de nos services professionnels."
   }
 
   
