@@ -4,6 +4,7 @@ html{
     --button-border-color:black;
     --button-box-shadow:  #a4b0be;
     --button-text-color: black;
+    --button-icone-color: black;
     --services-box-shadow: #a4b0be;
     --photo-shadow: #2e2027;
     --socialmedia-title-color: #57606f;
@@ -125,6 +126,7 @@ button:active {
     width: 1rem;
     height: 1rem;
     margin-right: 0.8rem;   
+    
 }
 
                     /**********************************/
@@ -736,5 +738,31 @@ body.june{
     --nav-links-hover-color: black;
     --nav-links-hover-scale: scale(1.08);
     --container-bg-color: white; 
+}
+body.dark-blue{
+    --button-bg-color: #136f7e;
+    --button-border-color:black;
+    --button-text-color:white;
+    --button-icone-color: white;
+    /* --button-box-shadow:  #87b4e1; */
+    --services-box-shadow: #1289A7;
+    --photo-shadow: #2e2027;
+    --color-enseigne: #10414d;
+    --socialmedia-title-color: #1289A7;
+    --navbar-bg-color: #136f7e;
+    --navbar-text-color: white;
+    --nav-links-hover-color: black;
+    --nav-links-hover-scale: scale(1.08);
+    --container-bg-color: white;
+
+
+
+
+
+
+
+
+
+    
 }
 

@@ -1,0 +1,49 @@
+{
+  "dossier": "giraudon-menuiserie",
+  "nom": "GIRAUDON",
+  "prenom" : "Guillaume",
+  "raison_sociale": "Giraudon Menuiserie",
+  "nom_commercial" : "GIRAUDON MENUISERIE",
+  "metier": "Menuisier - Vitrier",
+  "activite": "Travaux de menuiserie bois et pvc",
+  "genre_publication": "Le directeur",
+  "commune": "Les Sables d'Olonne",
+  "telephone" : "0650533827",
+  "mail" : "",
+  "forme_juridique": "Entreprise Individuelle",
+  "siren": "892565276",
+  "rue": "102 Avenue de Talmont",
+  "ville": "85100 Les Sables d'Olonne",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2747.235720120061!2d-1.729258434504534!3d46.4836447064638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa0052202dee36a09%3A0x2e1c5281ed0732cf!2s%F0%9F%94%B5GIRAUDON%20Menuiserie%20%2F%20Vitrerie%20Les%20Sables%20d%E2%80%99Olonne!5e0!3m2!1sfr!2sfr!4v1773427362669!5m2!1sfr!2sfr",
+  "theme_couleur": "blue",
+  "tag_title": "GIRAUDON Menuiserie - Vitrerie : Travaux de menuiserie bois et pvc",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "",
+  "facebook": "",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "navTitle":"vitrerie",
+      "activite": "Menuiserie - Vitrerie",
+      "text": "Nous sommes spécialisés dans les services suivants : Dépannage urgence vitre cassée, mise en sécurité rapide, Remplacement de vitre, Installation ou retrait d’une chatière, Verrière, Vitrine de magasin, fourniture et pose de tout type de verre et vitrage, réparation double vitrage brisé, vitre de cheminée, insert et poêle, dessus de table ou étagère en verre et bien plus encore. <br><br>Que le chantier soit petit ou grand, nous l’exécutons de façon irréprochable et dans les délais impartis.",
+      "dossier_photos": "photos1"
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Parce que chaque projet de vitrerie est unique, nous privilégions le sur-mesure. <br><br>Nos tarifs sont calculés au plus juste, en fonction de la complexité de l’intervention et des matériaux choisis (verre feuilleté, double vitrage thermique, miroir argenté). <br><br>Devis gratuit : Nous nous déplaçons pour évaluer précisément vos besoins sans aucun frais. <br><br>TVA réduite : Pour vos travaux de rénovation énergétique (remplacement de simple par du double vitrage), vous pouvez bénéficier d'un taux de TVA réduit à 5,5 % ou 10 % selon l'ancienneté de votre logement. <br><br>Agréments assurances : Nos tarifs de remplacement de casse sont étudiés pour être pris en charge par la majorité des contrats d'assurance habitation."
+  },
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"Artisan vitrier passionné, je mets mon savoir-faire au service de vos projets de vitrerie et de miroiterie. <br><br>Que ce soit pour une installation en neuf ou une rénovation, j'interviens avec rigueur pour garantir votre confort thermique, acoustique et votre sécurité.<br><br>Du remplacement de casse à la pose de double vitrage haute performance, en passant par la création de parois de douche ou de verrières sur mesure, chaque projet est traité avec une précision millimétrée. <br><br>Mon engagement ? Un travail soigné, des matériaux de qualité et le respect de vos délais."
+  }
+
+  
+
+}

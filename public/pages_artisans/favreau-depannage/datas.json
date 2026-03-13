@@ -1,0 +1,57 @@
+{
+  "dossier": "favreau-depannage",
+  "nom": "FAVREAU",
+  "prenom" : "Alexandre",
+  "raison_sociale": "Alexandre Favreau",
+  "nom_commercial" : "FAVREAU DEPANNAGE ELECTROMENAGER",
+  "metier": "Dépanneur Electroménager",
+  "activite": "Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin",
+  "genre_publication": "Le directeur",
+  "commune": "Les Sables d'Olonne",
+  "telephone" : "0637882279",
+  "mail" : "alexandrefavreau427@gmail.com",
+  "forme_juridique": "Eurl",
+  "siren": "951396506",
+  "rue": "83 Rue de la Justice",
+  "ville": "85100 Les Sables d'Olonne",
+  "google_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d701072.8339559243!2d-1.80236355!3d46.6550903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6e1802fde661781f%3A0x63bf666f58056398!2sAlexandre%20FAVREAU%20D%C3%A9pannage%20Electrom%C3%A9nager!5e0!3m2!1sfr!2sfr!4v1773429822070!5m2!1sfr!2sfr",
+  "theme_couleur": "blue",
+  "tag_title": "ALEXANDRE FAVREAU DEPANNAGE ELECTROMENAGER : Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin",
+  "image_hero": "images/hero/h1.jpeg",
+  "image_logo": "images/logo/logo.jpeg",
+  "tiktok": "",
+  "instagram": "",
+  "facebook": "https://www.facebook.com/alexandredepannageelectromenager/",
+  
+  "services": "Mes services",
+  "sections": [
+    {
+      "id":"1",
+      "navTitle":"Dépannage",
+      "activite": "Dépannage Electroménager",
+      "text": "Dépanneur à domicile des appareils électroménager et du matériel de cuisine professionnel. J'interviens sur tout le matériel gros électroménager pour les particuliers (lave-linge ,sèche-linge ,lave-vaisselle, four, plaque de cuisson, réfrigérateur, congélateur etc..) ainsi que sur tout les types de matériel de cuisine professionnelle sur site.",
+      "dossier_photos": "photos1"
+    },
+    {
+      "id": "2",
+      "navTitle":"",
+      "activite": "",
+      "text": "",
+      "dossier_photos": "photos2"     
+    }
+  ],
+
+  "price":{
+    "price_first_title": "Paiement",
+    "price_second_title": "Tarif",
+    "price_text": "Donnez une seconde vie à vos appareils à prix juste ! <br><br>Pourquoi remplacer quand on peut réparer ? <br><br>Pour seulement [Prix du forfait] €, je me déplace chez vous pour diagnostiquer la panne de votre appareil. <br><br>Diagnostic précis : Je trouve la source du problème. <br><br>Devis transparent : Vous décidez de réparer ou non en toute connaissance de cause. <br><br>Réparation durable : Utilisation de pièces certifiées constructeur."
+  },
+
+  "whoami":{
+    "whoami_first_title":"Qui suis-je",
+    "whoami_text":"Après des années d'expérience en tant qu'installateur et dépanneur pour de grandes enseignes, j'ai sauté le pas et me suis installé depuis mi-avril 2023.<br><br>J'ai toujours aimé la technique et le service. <br><br>J'interviens en premier avec une moto pour la rapidité des diagnostics. Le rêve de tout dépanneur, c'est une seule intervention par panne. <br><br> Mes services s'adressent à tout l'électromé nager des particuliers ainsi qu'aux matériels des professionnels de la cuisine. <br><br>Les techniciens sont nécessaires à tout le monde dans la vie quotidienne»."
+  }
+
+  
+
+}
