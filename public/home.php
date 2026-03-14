@@ -35,7 +35,7 @@
             <div class="choix_theme">
                 <div class="themex5">
                     <p><a href="https://purple.preprod.votreartisanpro.fr">Purple</a></p>
-                    <p><a href="https://special.preprod.votreartisanpro.fr">Spécial</a></p>
+                    <p><a href="https://pink.preprod.votreartisanpro.fr">Pink</a></p>
                     <p><a href="https://souris.preprod.votreartisanpro.fr">Souris</a></p>
                     <p><a href="https://cuir.preprod.votreartisanpro.fr">Cuir</a></p>
                     <p><a href="https://ocean.preprod.votreartisanpro.fr">Océan</a></p>

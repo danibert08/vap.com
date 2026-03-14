@@ -634,7 +634,7 @@ body.orange{
     --container-bg-color: white;
 }
 
-body.pink{
+body.mauve{
     --button-bg-color: #fec6ea;
     --button-border-color:white;
     --button-box-shadow:  #cf8ee6;
@@ -653,11 +653,11 @@ body.blue{
     --button-bg-color: #ace9f4;
     --button-border-color:black;
     /* --button-box-shadow:  #87b4e1; */
-    --services-box-shadow: #1289A7;
+    --services-box-shadow: #73d2ea;
     --photo-shadow: #2e2027;
     --color-enseigne: #10414d;
-    --socialmedia-title-color: #1289A7;
-    --navbar-bg-color: #1289A7;
+    --socialmedia-title-color: #73d2ea;
+    --navbar-bg-color: #73d2ea;
     --navbar-text-color: white;
     --nav-links-hover-color: black;
     --nav-links-hover-scale: scale(1.08);
@@ -724,7 +724,7 @@ body.grey{
     --container-bg-color: white;
 }
 
-body.june{
+body.pink{
     --button-bg-color: #e4b8c3;
     --button-text-color:black;
     --button-border-color:white;
