@@ -34,18 +34,18 @@
                 <p>Choisissez votre thème couleur : </p>
             <div class="choix_theme">
                 <div class="themex5">
-                    <p><a href="purple">Purple</a></p>
-                    <p><a href="special">Spécial</a></p>
-                    <p><a href="souris">Souris</a></p>
-                    <p><a href="cuir">Cuir</a></p>
-                    <p><a href="ocean">Océan</a></p>
+                    <p><a href="https://purple.preprod.votreartisanpro.fr">Purple</a></p>
+                    <p><a href="https://special.preprod.votreartisanpro.fr">Spécial</a></p>
+                    <p><a href="https://souris.preprod.votreartisanpro.fr">Souris</a></p>
+                    <p><a href="https://cuir.preprod.votreartisanpro.fr">Cuir</a></p>
+                    <p><a href="https://ocean.preprod.votreartisanpro.fr">Océan</a></p>
                 </div>
                 <div class=themex5>
-                    <p><a href="lagon">Lagon</a></p>
-                    <p><a href="feuillage">Feuillage</a></p>
-                    <p><a href="terre">Terre</a></p>
-                    <p><a href="bonbon">bonbon</a></p>
-                    <p><a href="ciel">ciel</a></p>
+                    <p><a href="https://lagon.preprod.votreartisanpro.fr">Lagon</a></p>
+                    <p><a href="https://feuillage.preprod.votreartisanpro.fr">Feuillage</a></p>
+                    <p><a href="https://terre.preprod.votreartisanpro.fr">Terre</a></p>
+                    <p><a href="https://fushia.preprod.votreartisanpro.fr">fushia</a></p>
+                    <p><a href="https://ciel.preprod.votreartisanpro.fr">ciel</a></p>
                 </div>
             </div>
             <p>**************</p><br>
