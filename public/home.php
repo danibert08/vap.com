@@ -47,8 +47,8 @@
                     </p>
                     
                     <p class="services__lambda_photos">
-                        <a class="theme_link" href="<?= $baseDir ?>/martine-beauty">Flamant<br><img class="photo photo3" src="/images_vap/photos1/m3.jpeg"  alt=""></a>                    
-                        <a class="theme_link" href="<?= $baseDir ?>/mon-ferronniermon-cordonnier">Cuir<br><img class="photo photo4" src="/images_vap/photos1/m4.jpeg" alt=""></a>
+                        <a class="theme_link" href="<?= $baseDir ?>/martine-beauty/index.php">Flamant<br><img class="photo photo3" src="/images_vap/photos1/m3.jpeg"  alt=""></a>                    
+                        <a class="theme_link" href="<?= $baseDir ?>/mon-cordonnier">Cuir<br><img class="photo photo4" src="/images_vap/photos1/m4.jpeg" alt=""></a>
                     </p>
                     <p class="services__lambda_photos">
                         <a class="theme_link" href="<?= $baseDir ?>/mon-electricien">Ciel<br><img class="photo photo5" src="/images_vap/photos1/m5.jpeg" alt=""></a>                    
