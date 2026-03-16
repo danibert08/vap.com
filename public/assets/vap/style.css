@@ -37,22 +37,17 @@ h2{
     justify-content: space-around;
     
 }
-
 .services__lambda_photos{
     display: flex;
     justify-content: space-evenly;
     margin-top: 0;
-    margin-bottom: 2rem;
-   
+    margin-bottom: 2rem;  
 }
 .theme_link{
-    
+    color: black;
 }
 .services__lambda h2{
     margin-bottom: 0;
-}
-.services__lambda a {
-    color: black;
 }
 .photo{ 
     box-shadow: 0 0 2vw var(--photo-shadow);
@@ -65,7 +60,7 @@ h2{
     display: flex;
 }
 .conditions_generales a{
-    margin: 0 1rem 1rem;
+    margin: 0 1rem 2rem;
     color: black;
     text-decoration: none;
 }
@@ -74,7 +69,7 @@ h2{
                     /*** form contact ***/
 
 .form-container {
-    margin: 2rem auto 2rem;
+    margin: 2rem auto 1rem;
     background: white;
     padding: 30px;
     border-radius: 16px;
@@ -127,7 +122,9 @@ textarea {
     margin-top: 15px;
     font-weight: bold;
 }
-
+.form-container button{
+    height: 2rem;
+}
 .success {
     color: green;
 }

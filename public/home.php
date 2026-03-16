@@ -83,7 +83,7 @@
             <p>Dans la partie message, renseignez votre Siren, et en option vos textes par section, mais je peux m'en charger si vous préférez.</p>
             <p>Puis adressez-moi 11 photos en format paysage par whatsApp au 07.45.06.34.58, ainsi que votre logo si vous en avez un.</p>
             <p>**************</p>
-            <p>Votre site internet sera en ligne dans les 24 heurs</p>
+            <p>Votre site internet sera en ligne dans les 24 heures</p>
             <p>Vous recevrez ensuite un lien de paiement pour effectuer votre règlement</p>
             <p>**************</p>
         </div>
