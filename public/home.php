@@ -42,7 +42,7 @@
                                 <!--     Main1 Pictures     -->
                     
                     <p class="services__lambda_photos">
-                        <a class="theme_link" href="./pages_artisans/espaces-verts">Feuillage<br><img class="photo photo1" src="/images_vap/photos1/m1.jpeg"  alt=""></a>
+                        <a class="theme_link" href="/pages_artisans/espaces-verts/index.php">Feuillage<br><img class="photo photo1" src="/images_vap/photos1/m1.jpeg"  alt=""></a>
                         <a class="theme_link" href="pages_artisans/ma-salle-de-bain">Lilas<br><img class="photo photo2" src="/images_vap/photos1/m2.jpeg"  alt=""></a> 
                     </p>
                     
@@ -51,7 +51,7 @@
                         <a class="theme_link" href="https://mon-cordonnier.preprod.votreartisanpro.fr">Cuir<br><img class="photo photo4" src="/images_vap/photos1/m4.jpeg" alt=""></a>
                     </p>
                     <p class="services__lambda_photos">
-                        <a class="theme_link" href="/mon-electricien">Ciel<br><img class="photo photo5" src="/images_vap/photos1/m5.jpeg" alt=""></a>                    
+                        <a class="theme_link" href="/pages_artisans/mon-electricien/index.php">Ciel<br><img class="photo photo5" src="/images_vap/photos1/m5.jpeg" alt=""></a>                    
                         <a class="theme_link" href="mon-menuisier">Terre<br><img class="photo photo6" src="/images_vap/photos1/m6.jpeg" alt=""></a>
                     </p>
                   
