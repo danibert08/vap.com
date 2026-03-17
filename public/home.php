@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Votre artisan Pro : pour permettre aux artisans d'obtenir un site vitrine professionnel à prix mini</title>
     <!-- Favicon standard -->
-    <link rel="shortcut icon" type="image/png" sizes="32x32" href="/assets/vap/favicon.png">
+    <link rel="shortcut icon" type="image/png" sizes="32x32" href="/assets/vap/favicon.ico">
     <!-- Solution de repli pour anciens navigateurs -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <!-- Apple Touch Icon -->
