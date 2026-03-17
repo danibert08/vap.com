@@ -11,9 +11,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu Simple</title>
+    <title>Votre artisan Pro : pour permettre aux artisans d'obtenir un site vitrine professionnel à prix mini</title>
     <!-- Favicon standard -->
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/vap/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/vap/favicon.png">
     <!-- Solution de repli pour anciens navigateurs -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <!-- Apple Touch Icon -->
