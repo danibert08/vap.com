@@ -11,7 +11,7 @@
     <title><?= $data['tag_title']; ?></title>
     <!-- Solution de repli pour anciens navigateurs -->
     <link rel="shortcut icon" href="<?= file_exists('pages_artisans/' . $data['dossier'] 
-    .'/images/logo/logo.jpeg') ? 'pages_artisans/' . $data['dossier'] . '/images/logo/logo.jpeg'  :  '/assets/vap/favicon.jpeg'?> " type="image/x-icon">
+    .'/images/logo/logo.jpeg') ? 'pages_artisans/' . $data['dossier'] . '/images/logo/logo.jpeg'  :  '/assets/vap/favicon.jpeg'?>" type="image/x-icon">
     <!-- Favicon standard -->
     <link rel="shortcut icon" type="image/jpeg" sizes="32x32" href="<?=  file_exists('pages_artisans/' . $data['dossier'] . '/images/logo/logo.jpeg')  ?  'pages_artisans/' . $data['dossier'] . '/images/logo/logo.jpeg'  :  '/assets/vap/favicon.jpeg'?>">
 
