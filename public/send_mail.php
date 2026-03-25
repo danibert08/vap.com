@@ -50,7 +50,7 @@ $_SESSION['last_submit'] = time();
    CORS sécurisé multi-sous-domaines
 ========================= */
 
-$allowedRoot = 'votreartisanpro.fr';
+$allowedRoot = 'votreartisanpro.com';
 $origin = $_SERVER['HTTP_ORIGIN'] ?? '';
 $originHost = parse_url($origin, PHP_URL_HOST) ?: '';
 
@@ -140,23 +140,7 @@ $artisanMap = [
     'preprod' => 'informacc85@gmail.com',
     'maquette' => 'daniel@votreartisanpro.fr',
     'root' => 'daniel@votreartisanpro.fr',
-    'ruchaud' => 'serrurerie.ruchaud85@sfr.fr',
-    'ma-ptite-cordo' =>'ma-ptite-cordo@orange.fr',
-    'dih'=>'dih85@orange.fr',
-    'grolier'=>'daniel@votreartisanpro.fr',
     'espace-services'=>'daniel@votreartisanpro.fr',
-    'authen-couture' =>'authen-couture85@orange.fr',
-    'abs' => 'daniel@votreartisanpro.fr',
-    'la-cle-vendeenne' => 'cailleau.richard@orange.fr',
-    'sables-decor' => 'daniel@votreartisanpro.fr',
-    'gilfredo' => 'fred.gilbert85@gmail.com',
-    'un-zeste-de-bois' => 'contact@unzestedebois.fr',
-    'esprit-confort' => 'espritconfort@gmail.com', 
-    'mincent' => 'lionel.mincent@orange.fr',
-    'entretien-nettoyage-vimont' => 'nettoyagevimont@gmail.com',
-    'les-bouquets-dautrefois' => 'lesbouquetsdautrefois@gmail.com',
-    'giraudon-menuiserie' => 'daniel@votreartisanpro.fr',
-    'favreau-depannage' => 'alexandrefavreau427@gmail.com',
     'mon-electricien' => 'daniel@votreartisanpro.fr',    
     'mon-peintre' => 'daniel@votreartisanpro.fr',    
     'mon-serrurier' => 'daniel@votreartisanpro.fr',    

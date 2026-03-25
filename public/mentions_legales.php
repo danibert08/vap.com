@@ -40,7 +40,7 @@
             <h3>2. Hébergement :</h3><br>
             <p>Le site est hébergé par :</p><br>
             <address>
-                votreartisanpro.fr (InformAcc)<br>
+                votreartisanpro.com (InformAcc)<br>
                 6 Rue du Val d'Olonne<br>
                 85180 Les Sables d'Olonne
             </address>
