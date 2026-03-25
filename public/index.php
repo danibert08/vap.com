@@ -118,7 +118,7 @@
 
 declare(strict_types=1);
 
-$rootDomain = 'votreartisanpro.fr';
+$rootDomain = 'votreartisanpro.com';
 $baseDir    = __DIR__ . '/pages_artisans'; 
 
 /* ============================================================
