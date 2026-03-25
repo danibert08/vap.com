@@ -34,7 +34,7 @@
             <address> 
                 votreartisanpro.fr (InformAcc)<br>
                 6 Rue du Val d'Olonne<br>
-                85180 Les Sables d'Olonne
+                85180 Les Sables d'Olonne<br>
                 France
             </address><br>
             <p>Email : informacc85@gmail.com</p><br>
