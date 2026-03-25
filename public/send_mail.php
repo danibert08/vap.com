@@ -136,15 +136,14 @@ if ($sd === 'null') {
 ========================= */
 
 $artisanMap = [
-    'ypria' => 'juniajeune8@gmail.com',
+    'ypria' => 'ypria@gmail.com',
     'preprod' => 'informacc85@gmail.com',
     'maquette' => 'daniel@votreartisanpro.fr',
     'root' => 'daniel@votreartisanpro.fr',
-    'espace-services'=>'daniel@votreartisanpro.fr',
     'mon-electricien' => 'daniel@votreartisanpro.fr',    
     'mon-peintre' => 'daniel@votreartisanpro.fr',    
     'mon-serrurier' => 'daniel@votreartisanpro.fr',    
-    'martine_beauty' => 'daniel@votreartisanpro.fr',    
+    'martine-beauty' => 'daniel@votreartisanpro.fr',    
     'ma-salle-de-bain' => 'daniel@votreartisanpro.fr',    
     'mon-cordonnier' => 'daniel@votreartisanpro.fr',    
     'espaces-verts' => 'daniel@votreartisanpro.fr',    
@@ -152,6 +151,7 @@ $artisanMap = [
     'mon-menuisier' => 'daniel@votreartisanpro.fr',    
     'mon-parpaing' => 'daniel@votreartisanpro.fr',    
     'mon-ferronnier' => 'daniel@votreartisanpro.fr',    
+    'mon-verrier' => 'daniel@votreartisanpro.fr',    
     
 ];
 
