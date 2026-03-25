@@ -35,6 +35,7 @@
                 votreartisanpro.fr (InformAcc)<br>
                 6 Rue du Val d'Olonne<br>
                 85180 Les Sables d'Olonne
+                France
             </address><br>
             <p>Email : informacc85@gmail.com</p><br>
             <p>Infrastructure d’hébergement :</p><br>
@@ -44,7 +45,7 @@
                 6023 Larnaca<br>
                 Chypre
             </address><br>
-            <p>Site : https://www.votreartisanpro.fr <br>
+            <p>Site : https://www.votreartisanpro.com <br>
                 (https://www.hostinger.fr)</p><br>
             <h2>Activité :</h2><br>
             <p>Le présent site a pour objet de présenter les services de : <?=  $data['nom_commercial'] ?></p>
